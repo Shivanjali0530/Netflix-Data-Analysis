@@ -15,7 +15,7 @@ The main objectives of this project are:
  - To visualize geographical distribution and trends in Netflix's catalog.
 
 ## Dataset Used
- - <a href="https://github.com/Shivanjali0530/Netflix-Data-Analysis/blob/main/netflix_titles.csv">Dataset<a/a>
+ - <a href="https://github.com/Shivanjali0530/Netflix-Data-Analysis/blob/main/netflix_titles.csv">Dataset</a>
 
 ## Key Questions (KPIs)
 
@@ -31,7 +31,7 @@ The main objectives of this project are:
    - Number of titles per country.
 
  ## Dashboard
- - <a href="https://github.com/Shivanjali0530/Netflix-Data-Analysis/blob/main/netflix_titles.csv">Dataset<a/a>
+ - <a href="https://github.com/Shivanjali0530/Netflix-Data-Analysis/blob/main/Dashboard.png">Dataset</a>
 
 ## Process
 
