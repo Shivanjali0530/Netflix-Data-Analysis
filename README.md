@@ -31,7 +31,7 @@ The main objectives of this project are:
    - Number of titles per country.
 
  ## Dashboard
- - <a href="https://github.com/Shivanjali0530/Netflix-Data-Analysis/blob/main/Dashboard.png">Dataset</a>
+ - <a href="https://github.com/Shivanjali0530/Netflix-Data-Analysis/blob/main/Dashboard.png">Dashboard</a>
 
 ## Process
 
